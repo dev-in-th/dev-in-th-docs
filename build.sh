@@ -1,0 +1,1 @@
+cat site.py | docker run -i --rm -v /Users/mpijittum/src/bigbears/dev-in-th-docs/out:/out gtramontina/diagrams:0.18.0
